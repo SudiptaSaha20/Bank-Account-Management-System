@@ -1,0 +1,84 @@
+--------------BANK MANAGEMENT SYSTEM--------------
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 1
+
+Enter first name: PRATTAYAN
+Enter last name: BASAK
+Enter house number: B-14/26
+Enter street/area: B-14
+Enter town/city: KALYANI
+Enter district/province: NADIA
+Enter PIN code: 741235
+Enter state: WEST BENGAL
+Enter country: INDIA
+Enter account type(savings/current): SAVINGS
+Enter account number: 0110040500000013
+Enter starting balance: 2000
+Account Created Successfully!
+
+Operations: 
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 5
+
+Account Holder: PRATTAYAN BASAK
+House Adress: B-14/26, B-14, KALYANI, NADIA, 741235, WEST BENGAL, INDIA
+Account Type: savings
+Account Number: 110040500000013
+Balance: Rs. 2000.00
+
+Operations: 
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 2
+
+Enter amount to deposit: 500
+Successfully deposited Rs. 500.00 into your account.
+
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 3
+
+Enter amount to withdraw: 5000
+Cannot withdraw an amount more than/equal to the account balance! Please try again: 2500 
+Cannot withdraw an amount more than/equal to the account balance! Please try again: 1750
+Rs. 1750.00 successfully withdrawn from your account.
+
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 4
+
+Currently you have Rs.750.00 in your bank account.
+
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 6

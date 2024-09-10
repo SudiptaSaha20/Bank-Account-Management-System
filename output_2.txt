@@ -1,0 +1,82 @@
+--------------BANK MANAGEMENT SYSTEM--------------
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 1
+
+Enter first name: RITWIKA     
+Enter last name: SEN
+Enter house number: A-11/276
+Enter street/area: A-11
+Enter town/city: KALYANI
+Enter district/province: NADIA
+Enter PIN code: 741235
+Enter state: WEST BENGAL
+Enter country: INDIA  
+Enter account type(savings/current): CURRENT
+Enter account number: 0110040500000013
+Enter starting balance: 5000
+Account Created Successfully!
+
+Operations: 
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 2
+
+Enter amount to deposit: 10000
+Successfully deposited Rs. 10000.00 into your account.
+
+Operations: 
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 3
+
+Enter amount to withdraw: 1512.37
+Rs. 1512.37 successfully withdrawn from your account.
+
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 4
+
+Currently you have Rs.13487.63 in your bank account.
+
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 5
+
+Account Holder: RITWIKA SEN
+House Adress: A-11/276, A-11, KALYANI, NADIA, 741235, WEST BENGAL, INDIA
+Account Type: current
+Account Number: 110040500000013
+Balance: Rs. 13487.63
+
+Operations:
+1. Create a new account
+2. Deposit money
+3. Withdraw money
+4. Check balance
+5. View account details
+6. Exit
+Enter your choice: 6
