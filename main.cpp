@@ -18,44 +18,6 @@ public:
     // ~Account();
 };
 
-void Account::createAccount()
-{
-    cout << "Enter user full name: ";
-    cin >> fullName;
-    cout << "Enter account number: ";
-    cin >> accNum;
-    cout << "Enter starting balance: ";
-    cin >> balance;
-}
-
-void Account::deposit()
-{
-    float deposit;
-    cout << "Enter amount to deposit: ";
-    cin >> deposit;
-    balance += deposit;
-}
-
-void Account::withdraw()
-{
-    float withdraw;
-    cout << "Enter amount to withdraw: ";
-    cin >> withdraw;
-    balance += withdraw;
-}
-
-void Account::checkBalance()
-{
-    cout << balance << endl;
-}
-
-void Account::display()
-{
-    cout << "\nFull Name: " << fullName << endl;
-    cout << "Account Number: " << accNum << endl;
-    cout << "Balance: Rs. " << balance << endl;
-}
-
 int main()
 {
     Account account;
@@ -92,4 +54,42 @@ int main()
         }
     }
     return 0;
+}
+
+void Account::createAccount()
+{
+    cout << "Enter user full name: ";
+    cin >> fullName;
+    cout << "Enter account number: ";
+    cin >> accNum;
+    cout << "Enter starting balance: ";
+    cin >> balance;
+}
+
+void Account::deposit()
+{
+    float deposit;
+    cout << "Enter amount to deposit: ";
+    cin >> deposit;
+    balance += deposit;
+}
+
+void Account::withdraw()
+{
+    float withdraw;
+    cout << "Enter amount to withdraw: ";
+    cin >> withdraw;
+    balance += withdraw;
+}
+
+void Account::checkBalance()
+{
+    cout << balance << endl;
+}
+
+void Account::display()
+{
+    cout << "\nFull Name: " << fullName << endl;
+    cout << "Account Number: " << accNum << endl;
+    cout << "Balance: Rs. " << balance << endl;
 }
